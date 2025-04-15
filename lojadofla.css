@@ -2,6 +2,9 @@
     margin: 0;
     
 }
+body{
+    font-size: 18pix;
+}
 
 header {
     background-color:  #9b111e;
@@ -178,6 +181,10 @@ main{
 
 .radio{
     margin-bottom: 15px;
+    height: 8rem;
+}
+btn-check{
+    position: relative !important;
 }
 
 .btn-radio {
